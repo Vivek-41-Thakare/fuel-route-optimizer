@@ -1,5 +1,5 @@
 # Fuel Route Optimizer — Backend Django Assessment
-feefw
+
 A Django REST API that plans a US road trip and recommends cost-effective fuel stops using the supplied Spotter fuel-price dataset.
 
 ## What it does
